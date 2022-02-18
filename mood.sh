@@ -1,5 +1,14 @@
 #!/bin/bash
 
+date
+echo "
+  __  __                 _ 
+ |  \/  |               | |
+ | \  / | ___   ___   __| |
+ | |\/| |/ _ \ / _ \ / _  |
+ | |  | | (_) | (_) | (_| |
+ |_|  |_|\___/ \___/ \__ _|                         
+"
 
 echo "Happy to help"
 echo "Enter the name what you want to enjoy"
