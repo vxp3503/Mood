@@ -35,3 +35,4 @@ else
    echo "You Entered Nothing I hope You are doing great"
    echo "press mood --help for any kind of help"
 fi
+echo"Thanks"
